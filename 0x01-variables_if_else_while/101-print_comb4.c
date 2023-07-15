@@ -1,4 +1,4 @@
-#include <stdio>
+#include  <stdio>
 /**
  * main - Entry point
  * Description: 'prints three digit combinations'
