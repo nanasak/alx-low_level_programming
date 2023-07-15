@@ -7,7 +7,7 @@
 
 int main(void)
 {
-        int n = 97;
+	int n = 97;
 
 	int m = 65;
 
@@ -22,5 +22,5 @@ int main(void)
 		m++;
 	}
 	putchar('\n');
-        return (0);
+	return (0);
 }
