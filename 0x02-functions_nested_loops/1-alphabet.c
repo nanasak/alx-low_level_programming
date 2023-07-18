@@ -2,12 +2,10 @@
 
 /**
  * prints_alphabet - print the alphabets in lowercase
- * Describes how this work
+ * Description: this is how this work
  */
 
 void print_alphabet(void)
-	/*works this out
-	*/
 {
 	char letter;
 
