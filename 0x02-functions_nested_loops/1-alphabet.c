@@ -6,6 +6,8 @@
  */
 
 void print_alphabet(void)
+	/*works this out
+	*/
 {
 	char letter;
 
