@@ -1,13 +1,15 @@
-#include "main.h"
+
 /**
- * mul - multiplies two numbers
- * @a: - first integer
- * @b: - second integer
- * Return: Always 0
+ * mul - checks for uppercase character
+ * @i: parameter 1
+ * @j: parameter 2
+ * Return: On success 0
  */
 
-int mul(int a, int b)
+int mul(int i, int j)
 {
-int mul
-return (mul);
+	int product;
+
+	product  = i * j;
+	return (product);
 }
