@@ -5,7 +5,7 @@
 /**
  * main - prints the multiplication of two argument numbers
  * @argc: count of arguments
- * argv: arrays of argument
+ * @argv: arrays of arguments
  *
  * Retrun: Always 0 (Success)
  */
