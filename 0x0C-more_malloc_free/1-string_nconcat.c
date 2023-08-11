@@ -38,7 +38,7 @@ char *string_nconcat(char *s1, char *s2, unsigned int n)
 	{
 		if (b <= a)
 			str[b] = s1[b];
-		
+
 		if (b >= a)
 		{
 			str[b] = s2[c];
