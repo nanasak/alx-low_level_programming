@@ -6,6 +6,7 @@
  * @c: character to print
  *
  * Return: Always 1 (Success)
+ * On error: return 1 and erno is se appropriately
  */
 int _putchar(char c)
 {
