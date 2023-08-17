@@ -8,7 +8,7 @@
   *
   * Return: always 0
   */
-int main (int argc, char *argv[])
+int main(int argc, char *argv[])
 {
 	int bytes, index;
 	int (*address)(int, char **) = main;
