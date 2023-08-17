@@ -8,7 +8,7 @@
   *
   * Return: -1 if not element matches 
   */
-int int_inded(int *array, int size, int (*cmp)(int))
+int int_index(int *array, int size, int (*cmp)(int))
 {
 	int x=0;
 
